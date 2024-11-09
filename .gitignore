@@ -38,3 +38,5 @@ Cargo.lock
 
 # End of https://www.toptal.com/developers/gitignore/api/rust,visualstudiocode
 
+# This file is used for testing
+.env 
